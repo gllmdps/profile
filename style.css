@@ -101,5 +101,5 @@ i{
 }
 
 #dino{
-  animation: 3s linear 1s infinite running slidein;
+  animation: defilement-rtl 15s infinite linear;
 }
