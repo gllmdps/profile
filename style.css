@@ -100,6 +100,6 @@ i{
   font-size: 2em;
 }
 
-#dino{
-  animation: defilement-rtl 15s infinite linear;
+.dino{
+  direction: rtl;
 }
