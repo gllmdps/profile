@@ -99,3 +99,7 @@ a:hover{
 i{
   font-size: 2em;
 }
+
+#dino{
+  animation: 3s linear 1s infinite running slidein;
+}
