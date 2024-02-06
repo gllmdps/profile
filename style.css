@@ -102,10 +102,11 @@ i{
 
 .dino{
   animation: Scroll 10s linear infinite;
+  font-size: 20px;
 }
 
 @keyframes Scroll{
   0% {
-    transform: translateX(-100%);
+    transform: translateX(100%);
   }
 }
