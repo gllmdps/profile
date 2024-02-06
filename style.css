@@ -101,9 +101,8 @@ i{
 }
 
 .dino{
-  white-space: nowrap;
   animation: Scroll 10s linear infinite;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 @keyframes Scroll{
