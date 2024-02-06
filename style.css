@@ -101,7 +101,8 @@ i{
 }
 
 .dino{
-  animation: Scroll 10s linear infinite;
+  animation: Scroll 20s linear infinite;
+  font-size: 30px;
 }
 
 @keyframes Scroll{
