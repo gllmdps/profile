@@ -101,5 +101,11 @@ i{
 }
 
 .dino{
-  direction: rtl;
+  animation: Scroll 10s linear infinite;
+}
+
+@keyframes Scroll{
+  0% {
+    transform: translateX(-100%);
+  }
 }
